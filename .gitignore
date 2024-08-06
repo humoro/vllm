@@ -190,3 +190,7 @@ hip_compat.h
 
 # Benchmark dataset
 *.json
+
+# vllm flash attn
+vllm_flash_attn/
+flash_attn_scsrc/
